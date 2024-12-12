@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801717289491",
+    "project_id": "league-of-legend-77ff3",
+    "storage_bucket": "league-of-legend-77ff3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801717289491:android:95afc595178b3b0cd2f5e6",
+        "android_client_info": {
+          "package_name": "com.mycompany.applol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgRgwt9LYOOV_-LKqg3eXazG0LwuIB0n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
